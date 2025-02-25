@@ -9,5 +9,5 @@ Instead, go to https://app.educationperfect.com/controlpanel/content/manage to a
 
 ## Stuff You Can Do
 ### Creating Content
-
+Start by creating a top-level folder to hold your content. Then you can select the folder, and right click the middle area of the screen to create content.
 ![Creating a top-level folder.](https://github.com/darkbottechnical/educationperfectcontrolpanel/blob/main/Screenshot%202025-02-25%20210130.png)
