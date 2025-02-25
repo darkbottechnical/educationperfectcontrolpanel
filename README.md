@@ -18,5 +18,5 @@ You should be able to figure out the rest, I'm too lazy to add any more steps.
 
 ### Getting Answers to Existing Modules
 There should be a dropdown list in the top left corner of the screen where you can select from various libraries of content by subject. Swicthing should give you different folders of content.
-[!The content selector.]()
-From there you can go into an activity of your choice and view a question, there should be an option to see the answer
+[!The content selector.](https://github.com/darkbottechnical/educationperfectcontrolpanel/blob/main/Screenshot%202025-02-25%20210707.png)
+From there you can go into an activity of your choice and view a question, there should be an option to see the answer.
