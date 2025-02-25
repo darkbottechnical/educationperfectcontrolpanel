@@ -7,4 +7,6 @@ Instead, go to https://app.educationperfect.com/controlpanel/content/manage to a
 
 ![The content Library.](https://github.com/darkbottechnical/educationperfectcontrolpanel/blob/main/Screenshot%202025-02-25%20205734.png)
 
-![Creating a top-level folder.]
+### Creating Content
+
+![Creating a top-level folder.](
